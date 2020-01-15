@@ -120,7 +120,7 @@ p {
 }
 
 .heart {
-  background-color: transparent;
+  background-color: whitesmoke;
   height: 30px;
   transform: rotate(-45deg);
   width: 30px;
@@ -130,7 +130,7 @@ p {
 .heart:before,
 .heart:after {
   content: "";
-  background-color: transparent;
+  background-color: whitesmoke;
   border-radius: 50%;
   height: 30px;
   width: 30px;
