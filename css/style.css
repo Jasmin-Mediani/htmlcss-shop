@@ -26,8 +26,8 @@ body {
   height: 450px;
   position: relative;
   border: 1px solid transparent;
-  margin-left: 25%;
-  margin-right: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .riga2 {
@@ -35,8 +35,8 @@ body {
   position: relative;
   width: 66%;
   border: solid 2px transparent;
-  margin-left: 25%;
-  margin-right: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .primo {
